@@ -1,0 +1,67 @@
+# 🧵 Paul: the connective brand
+
+> Distilled on 2026-11-20 from the Neocreo repo's brand guide (§6, "The connective brand") and
+> Paul's manifesto. **Snapshot, strategy only:** personal lines stay in the Neocreo repo. Until
+> the Neocreo repo adopts this core, NC is the source: refresh this copy from NC instead of
+> editing it here. Strategy context: [house of brands](README.md).
+
+## What it is
+
+The four brands stand alone. What links them is **Paul as a person.** Neocreo is the *product*
+hub; Paul is the *brand* hub. This is the brand the p3 site wears
+([`../web/README.md`](../web/README.md)).
+
+## Who it's for
+
+People who feel **split** between their structured, ambitious side and their creative, embodied
+side, and want the two to work together instead of competing.
+
+**Before:** hiding behind a screen, waiting for permission, seen for their output and not
+themselves. **After:** seen for who they are, living from what lights them up, in real community.
+
+## The story and the hook
+
+- **The one story:** the pursuit of progress, powered by dance.
+- **The hook:** *"The operator whose engine is the dance floor."* Not two separate worlds: one
+  pursuit, where the progress runs on the regulation and rhythm Paul learned dancing.
+- **Throughline:** dance through life. Confidence on and off the dance floor; work-life
+  *harmony*, not balance. *"I'm living my dream, I just picked an ambitious one."*
+
+## Two paradigms, four brands
+
+| Paradigm | Expression | Brand |
+|---|---|---|
+| 🕺 **Dance** | instructed and practiced | 🦌 Primal Prancing |
+| 🕺 **Dance** | experienced and felt | 🐈 BASS CATS |
+| 📈 **Progress** | via software | 🌱 Neocreo |
+| 📈 **Progress** | via consulting | 📈 Pursuit of Progress |
+
+## Pillars
+
+1. **The spine:** the pursuit of progress, powered by dance.
+2. **Founder authenticity:** personal stories and the struggle of building.
+3. **"The engine is the dance floor":** the dot-connector.
+
+## Voice and energy
+
+- **Conduit, not centerpiece.** "Look at *this*," not "look at me." Point at the work: the
+  systems architect showing the workbench, not a guru handing down answers.
+- **Document, don't perform.** A mistake is new data; share the post-mortem.
+- Purpose over profit. Rhythm over grind. In person over screen.
+
+## What it is NOT
+
+Not one of the four brands; the thread through them. Not a guru. Not a repost feed of the brand
+accounts. Not performing, and not waiting for permission.
+
+## The ask
+
+**Soft only:** follow, read, pick a door. This is the trust and gravity layer; conversions happen
+on the brand sites.
+
+## The feeling
+
+Alive. Seen. Empowered. *"That's a way to live I didn't know I was allowed to want."*
+
+`⚠️ open:` the founding story ("origin of the architecture") in Paul's own words. It is the
+heart of the p3 site and is not written yet.
