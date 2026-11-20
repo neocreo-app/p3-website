@@ -3,6 +3,10 @@
 One stack for every marketing site, so a fix learned on one site applies to all of them.
 Exceptions get a line in that repo's `docs/DECISIONS.md`.
 
+**Where the sites are today:** `nc-website` is on this stack. `basscats` is still plain HTML,
+and its own `AGENTS.md` already says it is moving to Next.js when its magazine viewer needs it.
+Nothing to change there now. PoP, PR2, and p3 start on this stack.
+
 ## Code
 
 - **Next.js** (App Router, TypeScript), on the **same version as `nc-website`** (14.2 today).

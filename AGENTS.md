@@ -18,8 +18,8 @@ for anything visual).
 
 | File | When |
 |---|---|
-| [`docs/core/brands/paul.md`](docs/core/brands/paul.md) | **Anything a visitor sees.** The brand this site wears |
-| [`docs/core/web/README.md`](docs/core/web/README.md) | The sites map and the build method |
+| [`docs/core/brands/p3.md`](docs/core/brands/p3.md) | **Anything a visitor sees.** The brand this site wears |
+| [`docs/core/web/README.md`](docs/core/web/README.md) | The sites map and the draft method (Paul and Jas review it) |
 | [`docs/core/web/style-guide.md`](docs/core/web/style-guide.md) | Colors, fonts, spacing: token roles only, never raw values |
 | [`docs/core/web/page-patterns.md`](docs/core/web/page-patterns.md) | Page types and sections |
 | [`docs/core/web/stack.md`](docs/core/web/stack.md) | Stack, HubSpot forms and meetings, redirects, SEO |

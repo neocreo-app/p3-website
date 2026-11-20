@@ -1,6 +1,6 @@
 # Site outline: template
 
-Copy this into a site repo as `docs/SITE_OUTLINE.md`. It holds steps 1 to 4 of the method
+Copy this into a site repo as `docs/SITE_OUTLINE.md`. It covers steps 1 to 4 of the draft method
 ([`README.md`](README.md)). Mark anything unsettled `⚠️ open:`. Nothing gets built until the
 outline is approved.
 

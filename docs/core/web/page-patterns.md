@@ -1,7 +1,11 @@
 # Page patterns
 
-Every site is assembled from the same page types and the same sections. A new section gets added
-here first, then built, so the next site can use it too.
+`⚠️ open:` **Claude's first draft (2026-11-20), not a decision.** Written from common marketing
+site patterns plus what the current PoP and PR2 sites contain. Paul and Jas replace it with the
+sections that come out of building PoP, PR2, and p3.
+
+The aim: every site is assembled from the same page types and the same sections. A new section
+gets added here first, then built, so the next site can use it too.
 
 ## Page types
 

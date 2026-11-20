@@ -5,8 +5,8 @@
 
 ## 1. What this site is
 
-- **Domain:** `⚠️ open`
-- **Wears:** 🧵 Paul, the connective brand ([`core/brands/paul.md`](core/brands/paul.md))
+- **Name:** p3 (for now). **Domain:** `⚠️ open`
+- **Wears:** 🧵 p3, the connective brand ([`core/brands/p3.md`](core/brands/p3.md))
 - **Its job:** be the **branded house** over the house of brands. Who Paul is, the one story,
   and a door to each of the four brands.
 - **Main ask:** soft. Follow (Instagram, LinkedIn), or pick a door. Conversions happen on the
@@ -22,7 +22,7 @@ address, entity name), or only the copyright line?
 
 ## 3. Brand inputs
 
-- **Brand file:** [`core/brands/paul.md`](core/brands/paul.md): the one story ("the pursuit of
+- **Brand file:** [`core/brands/p3.md`](core/brands/p3.md): the one story ("the pursuit of
   progress, powered by dance"), the hook ("the operator whose engine is the dance floor"), two
   paradigms and four brands, soft asks only.
 - **The founding story** (`⚠️ open`, the heart of the site): the "origin of the architecture",
@@ -73,8 +73,8 @@ None (new domain).
 ## 8. Open questions
 
 1. **Domain:** which one (a Paul name domain, or a p3 domain)?
-2. **Site name:** "p3", "P to the 3", or Paul's name? It decides the domain and the wordmark.
+2. ✅ **Site name:** p3 for now (Paul, 2026-11-20).
 3. **The founding story:** record it now, or launch with a short version?
-4. **The footer line on brand sites** that points here (proposal in
-   [`core/web/README.md`](core/web/README.md)).
+4. ✅ **The footer line on brand sites** that points here: the proposal in
+   [`core/web/README.md`](core/web/README.md) is good enough while building (Paul, 2026-11-20).
 5. **LinkedIn and personal Instagram URLs.**

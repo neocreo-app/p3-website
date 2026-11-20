@@ -1,7 +1,12 @@
 # Website style guide
 
-**Status: a scaffold for Paul and Jas to fill in together.** Structure is proposed; values are
-`⚠️ open` until Jas confirms them from Canva. Canva is the source of truth for every brand's look;
+**Status: a scaffold for Paul and Jas to fill in together.** Claude wrote the structure on
+2026-11-20 without measuring any site, so treat every proposal here as a placeholder.
+
+**The design reference is the current PoP site (HubSpot) and the current PR2 site (Wix).**
+Those are the best gauge of our style. The BASS CATS and Neocreo websites are **not** a
+reference: they were vibe coded without much oversight. Values are `⚠️ open` until Jas confirms
+them from Canva. Canva is the source of truth for every brand's look;
 this file is how that look reaches code. If they disagree, Canva wins, and this file gets fixed.
 
 ## The idea: family resemblance, not sameness
@@ -44,20 +49,22 @@ Add a role only when two brands need it.
 
 ## Brand values
 
-`⚠️ open:` every value below, from Jas's Canva guidelines. The known starting points are noted.
+`⚠️ open:` every value below, from Jas's Canva guidelines. First pass: measure the colors and
+fonts on the live PoP and PR2 sites and put them here for Jas to confirm.
 
 | Role | 🧵 p3 | 📈 PoP | 🦌 PR2 | 🐈 BASS CATS | 🌱 Neocreo |
 |---|---|---|---|---|---|
-| `--color-bg` | | | | | dark (dark-only today) |
-| `--color-accent` | | | | | `#22d3ee` on the site, differs from the app; reconcile |
-| `--font-display` | | | | | Inter today |
-| `--font-body` | | | | | Inter today |
-| Light / dark | | | | | Dark only |
+| `--color-bg` | | | | | |
+| `--color-accent` | | | | | |
+| `--font-display` | | | | | |
+| `--font-body` | | | | | |
+| Light / dark | | | | | |
 | Canva link | | | | | |
 
 ## The shared scales
 
-`⚠️ open (proposal):` start from these, then adjust in the session.
+`⚠️ open (placeholder):` generic starting numbers, not taken from our sites. Replace them with
+what the PoP and PR2 sites actually use.
 
 - **Type scale:** 6 steps, from small to display: 14 / 16 / 20 / 28 / 40 / 56 px on desktop,
   with display stepping down on phones. Body text is never smaller than 16 px.

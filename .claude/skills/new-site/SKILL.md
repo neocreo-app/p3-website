@@ -11,11 +11,12 @@ description: >-
 # New site
 
 Produces an **outline**, not a site. Building starts only after Paul (and Jas, for visuals)
-approve it. The method is in `docs/core/web/README.md`.
+approve it. Context is in `docs/core/web/README.md` (a working draft; Paul and Jas's own process
+wins where they differ).
 
 ## 1. Read first
 
-- `docs/core/web/README.md`: the method, the sites map, client-site rules
+- `docs/core/web/README.md`: the sites map, the draft method, client-site rules
 - `docs/core/web/site-outline-template.md`: the outline shape
 - `docs/core/web/page-patterns.md`: page types and sections
 - The brand file the site wears: `docs/core/brands/<brand>.md`. **For a client site,** the

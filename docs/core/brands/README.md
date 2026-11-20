@@ -30,8 +30,8 @@ A page or a post wears **one** brand. That brand decides the audience, the voice
 Paul is the *brand* hub, the human thread that makes them one world. Do not write "everything
 funnels to Neocreo"; let each brand stand alone.
 
-**Paul, the connective brand.** The thread through all four has its own file,
-[`paul.md`](paul.md), and its own site (p3). Which site wears which brand:
+**p3, the connective brand (Paul).** The thread through all four has its own file,
+[`p3.md`](p3.md), and its own site. Which site wears which brand:
 [`../web/README.md`](../web/README.md#the-sites-branded-house-over-a-house-of-brands).
 
 **Family resemblance, not sameness.** Primal Prancing and BASS CATS share DNA (one idea can wear

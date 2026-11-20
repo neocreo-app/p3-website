@@ -1,7 +1,8 @@
 # Websites: how we build them
 
-One method, one stack, one style system for every site we run, and for the client sites we
-spin out. The brands stay distinct. The way we build them, and the bones they share, are the same.
+Where our website know-how collects: the sites map, a style system, and the stack, for every
+site we run and the client sites we spin out. **Status: a working draft.** Paul and Jas have
+their own process; the method and patterns here are Claude drafts to review and replace with it. The brands stay distinct. The way we build them, and the bones they share, are the same.
 
 | File | What |
 |---|---|
@@ -10,6 +11,9 @@ spin out. The brands stay distinct. The way we build them, and the bones they sh
 | [`stack.md`](stack.md) | The standard stack, hosting, HubSpot forms and meetings, redirects, SEO |
 | [`launch-checklist.md`](launch-checklist.md) | Moving a site off Wix or HubSpot CMS, and the go-live steps |
 | [`site-outline-template.md`](site-outline-template.md) | The outline every site starts from (ours and clients') |
+
+**Repo setup** (`AGENTS.md`, `docs/core/`, `docs/DECISIONS.md`) follows `nc-website` and
+`basscats`. Their **designs** are not a reference; see [`style-guide.md`](style-guide.md).
 
 Copy rules stay in [`../rules/copy.md`](../rules/copy.md). Each brand's voice stays in
 [`../brands/`](../brands/). This folder links to them; it does not repeat them.
@@ -25,7 +29,7 @@ There are two layers:
 
 | Site | Domain | Wears | Its job | Main ask | Repo | Owner |
 |---|---|---|---|---|---|---|
-| **p3** | `⚠️ open` | 🧵 Paul, the connective brand ([`paul.md`](../brands/paul.md)) | Who Paul is, the one story, a door to each brand | Soft: follow, or pick a door | `neocreo-app/p3-website` | Paul |
+| **p3** | `⚠️ open` (name is p3 for now) | 🧵 p3, the connective brand ([`p3.md`](../brands/p3.md)) | Who Paul is, the one story, a door to each brand | Soft: follow, or pick a door | `neocreo-app/p3-website` | Paul |
 | **Pursuit of Progress** | pursuitofprogress.org | 📈 [PoP](../brands/pursuit-of-progress.md) | Consulting: GTMOps and the product paths | Book a call | `neocreo-app/pop` | Paul |
 | **Primal Prancing** | primalprancing.com | 🦌 [PR2](../brands/primal-prancing.md) | Come dance, in Boulder or online | Come to class | `neocreo-app/pr2` | Paul (Jas = community face) |
 | **BASS CATS** | basscats.org | 🐈 [BASS CATS](../brands/bass-cats.md) | The crew and its content | Join the Creative Club | `neocreo-app/basscats` | Jas |
@@ -34,12 +38,15 @@ There are two layers:
 **How the two layers touch.** A brand site links to the p3 site in its footer only, with a single
 line. It never adds a "see our other brands" section. `⚠️ open (proposal):` the footer line reads
 "A Paul Good project" and links to p3, and every site's copyright reads "© P to the 3 LLC".
+Good enough while building (Paul, 2026-11-20).
 
-## The method
+## A draft method (not decided)
 
-Every site, ours or a client's, goes through the same nine steps. The outline
-([`site-outline-template.md`](site-outline-template.md)) is where steps 1 to 4 live. **Nothing
-gets built until Paul (and Jas, for anything visual) approve the outline.**
+`⚠️ open:` **Claude's draft (2026-11-20), not a decision.** Paul and Jas have their own process;
+they review this and replace it with theirs. Until then, it is a checklist of what a site move
+touches. The outline
+([`site-outline-template.md`](site-outline-template.md)) covers steps 1 to 4. **Nothing gets
+built until Paul (and Jas, for anything visual) approve the outline.**
 
 1. **Inventory.** List every live URL, every form, embed, and booking link, and anything that is
    placeholder or broken. Old URLs become redirects later, so miss none.
@@ -65,7 +72,8 @@ gets built until Paul (and Jas, for anything visual) approve the outline.**
 
 ## One kit across sites
 
-The sites are separate repos. To keep them consistent without a shared code package too early:
+`⚠️ open:` **We figure this out by building PoP, PR2, and p3.** The expected shape (agreed
+2026-11-20), to keep the sites consistent without a shared code package too early:
 
 1. The **first site built is the starter.** It defines the tokens and the section components.
 2. The **second site copies them** and changes only token values and content.
@@ -75,7 +83,7 @@ The sites are separate repos. To keep them consistent without a shared code pack
 
 ## Client sites
 
-Same method, same stack, same style system with the client's tokens.
+Same stack, same style system with the client's tokens, and whatever process we settle on.
 
 - The client's brand file lives in **the client's repo**, never in house.
 - A client repo gets only `house/web/` and `house/rules/`, never `house/brands/` (our brands
@@ -85,7 +93,7 @@ Same method, same stack, same style system with the client's tokens.
 
 ## Order
 
-`⚠️ open (proposal):` outlines and copy now, builds after the 11-26 Neocreo move.
+Agreed 2026-11-20: outlines and copy now, builds after the 11-26 Neocreo move.
 1. **Pursuit of Progress:** clearest copy source, and it ends the HubSpot CMS bill. It becomes the
    starter.
 2. **Primal Prancing:** off Wix, copies the starter.
