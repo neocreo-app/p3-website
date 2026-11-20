@@ -11,7 +11,8 @@
   and a door to each of the four brands.
 - **Main ask:** soft. Follow (Instagram, LinkedIn), or pick a door. Conversions happen on the
   brand sites.
-- **Owner:** Paul. Non-delegable: builder authenticity is the asset.
+- **Lead:** Jas (design and build). The words are Paul's: he writes or approves every line
+  (builder authenticity is the asset).
 - **Energy:** conduit, not centerpiece. "Look at *this*." The site points at the work and the
   worlds, not at Paul's face.
 

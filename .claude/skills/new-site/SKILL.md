@@ -10,8 +10,8 @@ description: >-
 
 # New site
 
-Produces an **outline**, not a site. Building starts only after Paul (and Jas, for visuals)
-approve it. Context is in `docs/core/web/README.md` (a working draft; Paul and Jas's own process
+Produces an **outline**, not a site. Building starts only after Jas approves it, with Paul's sign-off
+on offers, prices, and claims. Context is in `docs/core/web/README.md` (a working draft; Paul and Jas's own process
 wins where they differ).
 
 ## 1. Read first

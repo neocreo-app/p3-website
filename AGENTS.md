@@ -7,12 +7,14 @@ every AI model (Claude, Codex, others); `CLAUDE.md` only points here.
 
 **Paul's own site,** the connective brand: the branded house over the house of brands. It tells the one story (the pursuit of progress, powered by dance) and is the only site that points to all four brands. Its asks are **soft:** follow, or pick a door.
 
-- **Owner:** Paul (non-delegable: the authenticity is the asset).
+- **Lead:** Jas: design and build.
+- **The words are Paul's:** the story and voice are his (the authenticity is the asset), so
+  Paul writes or approves every line of copy. He also helps on the tech side.
 - **Status:** planning. New site; domain `⚠️ open`.
 
 **Start here:** [`docs/SITE_OUTLINE.md`](docs/SITE_OUTLINE.md) is the plan: inventory, sitemap,
-page by page, forms, redirects, open questions. **Do not build until Paul approves it** (and Jas,
-for anything visual).
+page by page, forms, redirects, open questions. **Do not build until Jas approves it,** with Paul's
+sign-off on the copy.
 
 ## Read before you work
 

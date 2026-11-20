@@ -27,13 +27,13 @@ There are two layers:
 - **The branded house.** The p3 site is Paul's: the human thread. It is the only site that tells
   the one story and points to all four brands.
 
-| Site | Domain | Wears | Its job | Main ask | Repo | Owner |
+| Site | Domain | Wears | Its job | Main ask | Repo | Lead |
 |---|---|---|---|---|---|---|
-| **p3** | `⚠️ open` (name is p3 for now) | 🧵 p3, the connective brand ([`p3.md`](../brands/p3.md)) | Who Paul is, the one story, a door to each brand | Soft: follow, or pick a door | `neocreo-app/p3-website` | Paul |
-| **Pursuit of Progress** | pursuitofprogress.org | 📈 [PoP](../brands/pursuit-of-progress.md) | Consulting: GTMOps and the product paths | Book a call | `neocreo-app/pop` | Paul |
-| **Primal Prancing** | primalprancing.com | 🦌 [PR2](../brands/primal-prancing.md) | Come dance, in Boulder or online | Come to class | `neocreo-app/pr2` | Paul (Jas = community face) |
+| **p3** | `⚠️ open` (name is p3 for now) | 🧵 p3, the connective brand ([`p3.md`](../brands/p3.md)) | Who Paul is, the one story, a door to each brand | Soft: follow, or pick a door | `neocreo-app/p3-website` | Jas (the words are Paul's) |
+| **Pursuit of Progress** | pursuitofprogress.org | 📈 [PoP](../brands/pursuit-of-progress.md) | Consulting: GTMOps and the product paths | Book a call | `neocreo-app/pop` | Jas |
+| **Primal Prancing** | primalprancing.com | 🦌 [PR2](../brands/primal-prancing.md) | Come dance, in Boulder or online | Come to class | `neocreo-app/pr2` | Jas |
 | **BASS CATS** | basscats.org | 🐈 [BASS CATS](../brands/bass-cats.md) | The crew and its content | Join the Creative Club | `neocreo-app/basscats` | Jas |
-| **Neocreo** | neocreo.io | 🌱 [Neocreo](../brands/neocreo.md) | The software | Apply for an account | `neocreo-app/nc-website` | Paul |
+| **Neocreo** | neocreo.io | 🌱 [Neocreo](../brands/neocreo.md) | The software | Apply for an account | `neocreo-app/nc-website` | Paul (Jas designs) |
 
 **How the two layers touch.** A brand site links to the p3 site in its footer only, with a single
 line. It never adds a "see our other brands" section. `⚠️ open (proposal):` the footer line reads
@@ -46,7 +46,7 @@ Good enough while building (Paul, 2026-11-20).
 they review this and replace it with theirs. Until then, it is a checklist of what a site move
 touches. The outline
 ([`site-outline-template.md`](site-outline-template.md)) covers steps 1 to 4. **Nothing gets
-built until Paul (and Jas, for anything visual) approve the outline.**
+built until Jas approves the outline,** with Paul's sign-off on offers, prices, and claims.
 
 1. **Inventory.** List every live URL, every form, embed, and booking link, and anything that is
    placeholder or broken. Old URLs become redirects later, so miss none.
@@ -65,8 +65,11 @@ built until Paul (and Jas, for anything visual) approve the outline.**
 
 ## Who does what
 
-- **Paul:** brand architecture, offers, prices, claims, and anything with money in it.
-- **Jas:** visual identity (Canva), the style guide, design calls. On BASS CATS, everything.
+- **Jas leads the websites** (Paul, 2026-11-20): design, the build, the copy, and building out
+  each site's offerings. She owns the visual identity (Canva) and the style guide. On BASS CATS,
+  everything.
+- **Paul** helps on the tech side, leads, and answers questions. He approves offers, prices, and
+  claims (anything with money in it) and the brand architecture. On p3, the words are his.
 - **Claude and other builders:** inventory, outline drafts, copy drafts, the build, the checks.
   They recommend; they do not decide the brand.
 

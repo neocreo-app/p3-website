@@ -7,7 +7,7 @@ outline is approved.
 ```markdown
 # <Site name>: site outline
 
-**Status:** draft / approved by Paul (date) / approved by Jas (date)
+**Status:** draft / approved by Jas (date) / offers, prices, claims signed off by Paul (date)
 
 ## 1. What this site is
 - Domain:
